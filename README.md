@@ -7,3 +7,6 @@ The Accident Prevention, Detection and Reporting System is an advanced safety so
 This project includes the development of  accident detection system by integrating components such as Sim900A GSM module and Sim28ML GPS modules for real-time communication and precise GPS tracking and, an MQ-3 gas sensor for environmental monitoring, an accelerometer for impact detection, and a motor driver interfaced with an Arduino Mega for responsive control.
 
  The interconnected system demonstrates a integrates of communication, sensing, and control technologies, enhancing emergency response mechanisms. The report provides insights into the integration process, challenges faced, and solutions implemented, during the development of this prototype.
+
+ ![image](https://github.com/user-attachments/assets/4a1e5b03-2885-4ea3-8ee4-0fbb8878fb30)
+

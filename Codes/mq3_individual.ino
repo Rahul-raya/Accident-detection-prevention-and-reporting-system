@@ -1,5 +1,5 @@
 //**This is the code for the MQ3 sensor when interfaced with arduino and the readings are shown in the LCD display connected with I2C Converter**//
-//** Maniram Tatipamula**//
+
 
 #include <Wire.h> //library that help to communicate with I2C
 #include <LiquidCrystal_I2C.h> 
@@ -51,3 +51,4 @@ void alcBuzz(){
   delay(200);  // Buzzer sounds for 1 second
   digitalWrite(buzzerPin, LOW);
   }
+
